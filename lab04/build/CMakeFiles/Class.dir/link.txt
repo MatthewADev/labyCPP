@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Class.dir/main.cpp.o CMakeFiles/Class.dir/src/IceMachine.cpp.o CMakeFiles/Class.dir/src/Service.cpp.o -o Class 

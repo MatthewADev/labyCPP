@@ -1,0 +1,3 @@
+/home/stud2022/2adamczyk/Desktop/lab04/build/CMakeFiles/Class.dir
+/home/stud2022/2adamczyk/Desktop/lab04/build/CMakeFiles/edit_cache.dir
+/home/stud2022/2adamczyk/Desktop/lab04/build/CMakeFiles/rebuild_cache.dir
